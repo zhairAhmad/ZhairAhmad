@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="900" height="130" role="img" aria-label="Thanks for visiting">
+<defs>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C8CFF" stop-opacity="0"/><stop offset=".5" stop-color="#7C8CFF"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></linearGradient>
+<linearGradient id="brand" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#7C8CFF"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+<linearGradient id="f1-t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B9C2FF"/><stop offset="1" stop-color="#7C8CFF"/></linearGradient><linearGradient id="f1-l" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7C8CFF"/><stop offset="1" stop-color="#3B3F8F"/></linearGradient><linearGradient id="f1-r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3B3F8F"/><stop offset="1" stop-color="#0A0E1A"/></linearGradient>
+<linearGradient id="f2-t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A5F3FC"/><stop offset="1" stop-color="#22D3EE"/></linearGradient><linearGradient id="f2-l" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#0E5A6B"/></linearGradient><linearGradient id="f2-r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0E5A6B"/><stop offset="1" stop-color="#0A0E1A"/></linearGradient>
+<linearGradient id="f3-t" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DDD0FF"/><stop offset="1" stop-color="#A78BFA"/></linearGradient><linearGradient id="f3-l" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#4C3A8C"/></linearGradient><linearGradient id="f3-r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4C3A8C"/><stop offset="1" stop-color="#0A0E1A"/></linearGradient>
+</defs>
+<style>text{font-family:'Segoe UI', Inter, -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif}
+.bob{animation:bob 6s ease-in-out infinite}@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<rect x="90" y="36" width="720" height="1" fill="url(#line)"/>
+<g class="bob"><polygon points="425,26 433.66,31.0 425,36 416.34,31.0" fill="url(#f1-t)"/><polygon points="416.34,31.0 425,36 425,46 416.34,41.0" fill="url(#f1-l)"/><polygon points="425,36 433.66,31.0 433.66,41.0 425,46" fill="url(#f1-r)"/><polygon points="425,26 433.66,31.0 425,36 416.34,31.0" fill="none" stroke="#FFFFFF" stroke-opacity=".18" stroke-width=".8"/></g>
+<g class="bob" style="animation-delay:-2s"><polygon points="450,17 461.258,23.5 450,30 438.742,23.5" fill="url(#f2-t)"/><polygon points="438.742,23.5 450,30 450,43 438.742,36.5" fill="url(#f2-l)"/><polygon points="450,30 461.258,23.5 461.258,36.5 450,43" fill="url(#f2-r)"/><polygon points="450,17 461.258,23.5 450,30 438.742,23.5" fill="none" stroke="#FFFFFF" stroke-opacity=".18" stroke-width=".8"/></g>
+<g class="bob" style="animation-delay:-4s"><polygon points="475,26 483.66,31.0 475,36 466.34,31.0" fill="url(#f3-t)"/><polygon points="466.34,31.0 475,36 475,46 466.34,41.0" fill="url(#f3-l)"/><polygon points="475,36 483.66,31.0 483.66,41.0 475,46" fill="url(#f3-r)"/><polygon points="475,26 483.66,31.0 475,36 466.34,31.0" fill="none" stroke="#FFFFFF" stroke-opacity=".18" stroke-width=".8"/></g>
+<text x="450" y="88" text-anchor="middle" font-size="21" font-weight="600" fill="url(#brand)">Building AI systems that hold up in production.</text>
+<text x="450" y="114" text-anchor="middle" font-size="14.5" fill="#8F9AB3">Thanks for stopping by.</text>
+</svg>

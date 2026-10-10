@@ -1,74 +1,65 @@
-# 💫 About Me:
+<img src="./assets/hero.svg" width="100%" alt="Zhair Ahmad — AI Engineer. Generative AI, LLM applications, Python and automation." />
 
-👋 **Hi, I'm Zhair Ahmad**
+<p align="center">
+  <a href="https://linkedin.com/in/zhair-ahmad"><img src="https://img.shields.io/badge/LinkedIn-0E1324?style=for-the-badge&logo=linkedin&logoColor=7C8CFF" alt="LinkedIn" /></a>
+  <a href="mailto:zhairdeveloper@gmail.com"><img src="https://img.shields.io/badge/Email-0E1324?style=for-the-badge&logo=gmail&logoColor=22D3EE" alt="Email" /></a>
+  <a href="https://behance.net/zhair"><img src="https://img.shields.io/badge/Behance-0E1324?style=for-the-badge&logo=behance&logoColor=A78BFA" alt="Behance" /></a>
+  <img src="https://img.shields.io/badge/Sahiwal,_Pakistan-0E1324?style=for-the-badge&logo=googlemaps&logoColor=34D399" alt="Location: Sahiwal, Pakistan" />
+</p>
 
-### 🚀 Summary
-**Full-Stack Engineer | Agentic AI & RAG Specialist | Next.js Expert**
-Computer Science Graduate (3.74 CGPA) specializing in building high-performance web applications, autonomous AI workflows, and resilient web automation pipelines. I bridge the gap between robust web architecture (MERN/Next.js) and cutting-edge artificial intelligence to build scalable, production-ready systems.
+<br />
 
----
+## About
 
-### 🔭 I’m currently working on
-* **Professional Development:** Actively working as a **Python & MERN Stack Developer**.
-* **Talents Pipe Line:** Architecting a modern job portal featuring real-time chat and intelligent AI modules.
-* **ServiceHubAI:** Scaling an AI-powered service marketplace that connects customers with professional providers.
-* **Upwork AI:** Developing a custom browser extension for workflow and proposal automation.
+I'm an **AI Engineer** who builds Generative AI products that hold up in production: RAG systems, LLM agents with tool use, document intelligence and automation pipelines. Under the AI work sits a solid engineering base in **Python, FastAPI and Next.js**, with services shipped on **Docker and AWS**.
 
-### 👯 I’m looking to collaborate on
-* Production-grade **Agentic AI** workflows (LangGraph, LlamaIndex).
-* Advanced **Web Scraping & Automation** systems using Playwright.
-* Open Source Next.js, TypeScript, and MERN stack architectures.
+- **Now:** looking for an AI Engineer or Automation Engineer role, and building *Pakistan Compass*, a travel app for 2-day trips to northern Pakistan (Expo + Supabase).
+- **Focus:** retrieval quality (hybrid search, re-ranking, RAGAS evals), safe LLM tool use, and vision-language models for messy scanned documents.
+- **Ask me about:** Text-to-SQL guardrails, LangGraph agents, OCR + VLM extraction, and scrapers that survive real-world sites.
 
-### 🌱 I’m currently learning
-* **CS50** (Introduction to Computer Science via edX) to continuously sharpen core computer science fundamentals.
-* Advanced Retrieval-Augmented Generation (RAG) using **PostgreSQL** and **pgvector**.
-* Local LLM deployment and orchestration with **Ollama**.
+<br />
 
-### 💬 Ask me about
-* **Full-Stack Architecture:** Next.js (App Router), Node.js, Express, MongoDB.
-* **AI Integration:** Building deterministic guardrails for AI agents and LLMs.
-* **Browser Automation:** Building stealthy data extraction pipelines and bypassing anti-bot systems.
+## Featured work
 
-### ⚡ Fun fact
-* I believe clean architectural code is just as important as a high CGPA — and I have both! 🎓💻
+<p align="center">
+  <img src="./assets/projects/intelyze.svg" width="49%" alt="Intelyze: bilingual Text-to-SQL RAG platform with 3-layer SQL guardrails" />
+  <img src="./assets/projects/handelsregister.svg" width="49%" alt="Handelsregister: document intelligence and CRM; malformed model outputs cut from 24% to 3%" />
+</p>
+<p align="center">
+  <img src="./assets/projects/cigarbid.svg" width="49%" alt="CigarBid: auction deal intelligence running on a 512 MB VPS" />
+  <img src="./assets/projects/talents-pipeline.svg" width="49%" alt="Talents Pipeline: recruitment platform with a 6-stage applicant pipeline" />
+</p>
 
----
+<br />
 
-### 🛡️ Profile Highlights
-* 🛠️ **Full Stack Engineer** | **TypeScript** | **Next.js**
-* 🤖 **AI & Automation:** LangGraph, RAG, Playwright, Selenium
-* 💻 **Backend:** Node.js, Python, MongoDB, PostgreSQL (pgvector)
-* 🌐 **Frontend:** React, Next.js, Tailwind CSS
-* 🚀 **Proven Track Record:** Built custom AI browser extensions and full-scale service marketplaces.
+## Experience
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/zhair) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zhair-ahmad-91b17a18b) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zhairdeveloper@gmail.com) 
+**Trainee Python Developer, AI & Automation** · Jiddat Labs · Remote · *Jun – Sep 2026*<br />
+Built GenAI workflows (LLMs, LangChain, RAG) that turn unstructured documents into structured data, plus ETL pipelines and Selenium/Playwright scrapers feeding downstream models. Containerized and deployed the services on AWS EC2.
 
-# 💻 Tech Stack:
+**Python Intern** · Jiddat Labs · *Mar – Jun 2026*<br />
+Python data pipelines, REST API integrations and dataset preparation for ML training and evaluation.
 
-**Frontend & Design**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+**BS Computer Science** · COMSATS University Islamabad · *2026* · CGPA 3.7 / 4.0<br />
+Certifications: NLP Specialization (DeepLearning.AI) · Google Project Management
 
-**Backend & Databases**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) 
+<br />
 
-**AI & Automation**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=OpenAI&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## Toolkit
 
-**Tools & Infrastructure**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,fastapi,nodejs,express,react,nextjs,postgres,mongodb,prisma,supabase,docker,aws,githubactions,linux&perline=8&theme=dark" alt="Python, TypeScript, JavaScript, FastAPI, Node.js, Express, React, Next.js, PostgreSQL, MongoDB, Prisma, Supabase, Docker, AWS, GitHub Actions, Linux" />
+</p>
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zhairAhmad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zhairAhmad&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zhairAhmad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="./assets/toolkit.svg" width="100%" alt="AI and ML toolkit: LLMs and agents, retrieval, vision and NLP, evaluation and ops, data and automation" />
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zhairAhmad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<br />
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## GitHub activity
 
----
-[![](https://visitcount.itsvg.in/api?id=zhairAhmad&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zhairAhmad&show_icons=true&include_all_commits=true&count_private=true&card_width=495&bg_color=0E1324&title_color=7C8CFF&text_color=C9D1E3&icon_color=22D3EE&border_color=1E2740&border_radius=16" alt="GitHub stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=zhairAhmad&background=0E1324&border=1E2740&stroke=1E2740&ring=7C8CFF&fire=22D3EE&currStreakNum=E8ECF4&sideNums=E8ECF4&currStreakLabel=7C8CFF&sideLabels=8F9AB3&dates=5B6782&border_radius=16" alt="GitHub contribution streak" />
+</p>
+
+<img src="./assets/footer.svg" width="100%" alt="Building AI systems that hold up in production. Thanks for stopping by." />

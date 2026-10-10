@@ -25,10 +25,8 @@ I build Generative AI systems that hold up in production: RAG over real data, LL
 
 <br />
 
-### Experience
+### Education
 
-**Jiddat Labs**: Trainee Python Developer, AI & Automation &nbsp;·&nbsp; *Jun – Sep 2026*<br />
-**Jiddat Labs**: Python Intern &nbsp;·&nbsp; *Mar – Jun 2026*<br />
 **COMSATS University Islamabad**: BS Computer Science, CGPA 3.7 &nbsp;·&nbsp; *2026*
 
 <br />

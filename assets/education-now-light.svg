@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 220" width="900" height="220" role="img" aria-label="Education: BS Computer Science, COMSATS 2026. Now: looking for an AI Engineer role.">
+<style>
+text{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+.mono{font-family:ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace}
+.float{animation:float 8s ease-in-out infinite}
+.shadow{animation:shadow 8s ease-in-out infinite;transform-box:fill-box;transform-origin:center}
+.pulse{animation:pulse 2.6s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-8px)}}
+@keyframes shadow{0%,100%{transform:scaleX(1);opacity:1}50%{transform:scaleX(.82);opacity:.6}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.35}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<g transform="translate(0 40)"><text class="mono" x="2" y="24" font-size="13" letter-spacing="2.5"><tspan fill="#4F46E5">04</tspan><tspan dx="10" fill="#59636E">EDUCATION</tspan></text><rect x="140" y="19" width="290" height="1" fill="#D1D9E0"/><text class="mono" x="472.0" y="24" font-size="13" letter-spacing="2.5"><tspan fill="#4F46E5">05</tspan><tspan dx="10" fill="#59636E">NOW</tspan></text><rect x="548" y="19" width="352" height="1" fill="#D1D9E0"/><text x="0" y="72" font-size="19" font-weight="600" fill="#1F2328">COMSATS University Islamabad</text><text x="0" y="100" font-size="15.5" fill="#59636E">BS Computer Science</text><text class="mono" x="0" y="128" font-size="13" fill="#4F46E5">2026  ·  CGPA 3.7 / 4.0</text><text x="0" y="160" font-size="14.5" fill="#59636E">NLP Specialization, DeepLearning.AI</text><circle class="pulse" cx="476" cy="66" r="4.5" fill="#2DA44E"/><text x="490" y="72" font-size="19" font-weight="600" fill="#1F2328">Looking for my next role</text><text x="470" y="100" font-size="15.5" fill="#59636E">AI Engineer or Automation Engineer</text><text class="mono" x="470" y="128" font-size="13" fill="#4F46E5">SIDE PROJECT</text><text x="470" y="160" font-size="14.5" fill="#59636E">Pakistan Compass, a travel app for northern Pakistan</text></g>
+</svg>
